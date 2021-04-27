@@ -1,0 +1,115 @@
+@media(max-width: 1600px) {
+
+    .video_preview_link {
+
+        left: 10vh;
+        display: flex;
+        justify-content: center;
+        width: 80%;
+        height: auto;
+    }
+
+}
+
+@media(max-width: 900px) {
+    .laptop {
+        display: none;
+    }
+
+    .design_description {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+    }
+
+    .skill__img {
+        width: 100%;
+        height: auto;
+
+    }
+
+    .section_fourth {
+        width: 100%;
+        /* height: 653px;*/
+        height: 55vh;
+
+    }
+
+    .face__img {
+        display: none;
+    }
+
+
+
+    .video_preview_link {
+
+        left: 5vh;
+        display: flex;
+        justify-content: center;
+        width: 80%;
+        height: auto;
+    }
+
+
+    .microsoft__img {
+        width: 120%;
+    }
+
+
+
+
+
+}
+
+@media(max-width: 600px) {
+    .project__group {
+        display: none;
+    }
+
+    .skill__img {
+        width: 100%;
+        height: auto;
+
+    }
+
+    .face__img {
+        display: none;
+    }
+
+    .section_fifth {
+
+        width: 100%;
+        /*height: 1004px;*/
+        height: 70vh;
+        background: rgba(238, 239, 241, 1);
+
+    }
+
+    .microsoft__img {
+        width: 120%;
+    }
+
+}
+
+@media(max-width: 500px) {
+    .project__group {
+        display: none;
+    }
+
+    .skill__img {
+        display: none;
+    }
+
+    .face__img {
+        display: none;
+    }
+
+    .vk-logo {
+        display: none;
+    }
+
+}
